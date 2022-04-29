@@ -16,6 +16,7 @@ const Footer = () => {
           <Icons.InstagramIcon />
           <Icons.TwitterIcon />
           <Icons.LinkedinIcon />
+          <Icons.InstagramIcon />
         </div>
       </div>
     </>
