@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hotcoffee/static/css/main.0ec0ca38.css",
+    "main.js": "/hotcoffee/static/js/main.998456e6.js",
+    "static/media/blog_1.png": "/hotcoffee/static/media/blog_1.8d975a7f35e20dd30e3f.png",
+    "static/media/blog_3.png": "/hotcoffee/static/media/blog_3.53c0e21641f3a20cbac2.png",
+    "static/media/blog_2.png": "/hotcoffee/static/media/blog_2.102b9bf7543317395578.png",
+    "static/media/blog_4.png": "/hotcoffee/static/media/blog_4.4fe7049b3ccda0cf8ba5.png",
+    "static/media/banner-img.png": "/hotcoffee/static/media/banner-img.33fc7418401652369be5.png",
+    "static/media/HotCoffeeLogo.svg": "/hotcoffee/static/media/HotCoffeeLogo.0f7ba7895effeb14390b920b0bd9b0d6.svg",
+    "static/media/InstagramIcon.svg": "/hotcoffee/static/media/InstagramIcon.ca1faafccf1ed8a58e054e54a93f4259.svg",
+    "static/media/TwitterIcon.svg": "/hotcoffee/static/media/TwitterIcon.4d969fbc255bc180f988fa800136185b.svg",
+    "static/media/LinkedinIcon.svg": "/hotcoffee/static/media/LinkedinIcon.adb1c17f1ca74e54da7d82bcddb2c07d.svg",
+    "static/media/SearchIcon.svg": "/hotcoffee/static/media/SearchIcon.95a98a7c3d9696bbf71e3a6c31891aa4.svg",
+    "index.html": "/hotcoffee/index.html",
+    "static/media/ArrowDownIcon.svg": "/hotcoffee/static/media/ArrowDownIcon.4954aa161f47477b396a8915f4b70251.svg",
+    "main.0ec0ca38.css.map": "/hotcoffee/static/css/main.0ec0ca38.css.map",
+    "main.998456e6.js.map": "/hotcoffee/static/js/main.998456e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec0ca38.css",
+    "static/js/main.998456e6.js"
+  ]
+}
